@@ -1,4 +1,4 @@
-This terminal (model RIT-V300) is property of RobCo Industries. It is installed with a cutting-edge prototype operating system Unified Operating System (UOS). Its aim is have one core operating system to run across all RobCo terminals, either personal or networked to a mainframe.
+This terminal (model RIT-V300) is property of <b>RobCo</b> Industries. It is installed with a cutting-edge prototype operating system Unified Operating System (UOS). Its aim is have one core operating system to run across all RobCo terminals, either personal or networked to a mainframe.
 <br><br>
 In addition the this terminal system uses the state-of-the-art RobCo MF Boot Agent (v2.3) as a bootloader, initiated by the RIT-V300's RETROS BIOS firmware.
 <br><br>
