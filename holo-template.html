@@ -1,12 +1,31 @@
 <html>
   <head>
+    <!-- Link to jQuery Core -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+
     <!-- Link to fallout terminal JS library -->
-    <script
-      src="https://raw.githubusercontent.com/sublethaljpg/fallout-resources/main/js/foTermLib.js"
-    >
-        /*
-      Documentation: https://github.com/sublethaljpg/fallout-resources/blob/main/library.md
-        */
-    </script>
+    <!-- Documentation @ https://github.com/sublethaljpg/fallout-resources/blob/main/library.md -->
+    <script src="https://raw.githubusercontent.com/sublethaljpg/fallout-resources/main/js/foTermLib.js"></script>
+
+    <!-- Link to fallout terminal standard stylesheet -->
+    <link
+      rel="stylesheet"
+      href="https://raw.githubusercontent.com/sublethaljpg/fallout-resources/main/css/standard.css"
+    />
   </head>
+  <body>
+    <!-- Everything in holotape will be displayed only: jQuery.("#content").load("holotape.html #holotape")-->
+    <div id="holotape"></div>
+    <script>
+      // menuItem(id, action)
+      /*
+			
+			// This will hide the parent div and then display the child, (the given id)
+			goTo(id);
+			
+
+			*/
+      menuItem();
+    </script>
+  </body>
 </html>
